@@ -20,7 +20,6 @@ int main ()
 		DrawText("Hello World", center_pos.x, center_pos.y, 20, WHITE);
 		EndDrawing();
 	}
-
 	CloseWindow();
 	return 0;
 }
